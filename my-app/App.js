@@ -14,7 +14,7 @@ export default function App() {
 
       <Button title="Enviar" />
       <TouchableOpacity style={styles.button} onPress={() => console.log('Enviar mensagem')}>
-        <Text style={styles.buttonText}>Saiba Mais</Text>
+        <Text style={styles.buttonText}>SAIBA MAIS</Text>
       </TouchableOpacity>
     </View>
   );
